@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=50&fontAlignY=40&animation=fadeIn" alt="Header" />
 </p>
 
-<img align="right" width=300px alt="Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width=300px alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDlmNnFjbXZ2eW1vczFtNXFsNjllNnVvZ3k0Y3M4bnR2dnYydGwyNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif" />
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;About Me
 
